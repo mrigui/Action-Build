@@ -55,6 +55,11 @@ on:
           - oneplus_15r_aosp
           - oneplus_15
           - oneplus_15_aosp
+          - oneplus_ace2_pro_b
+          - oneplus_ace3_b
+          - oneplus_open_b
+          - caihong  # 只加在这一行！
+
       MANAGER_SOURCE:
         type: choice
         description: "管理器调用方向"
